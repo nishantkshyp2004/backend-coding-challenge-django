@@ -31,3 +31,16 @@ A backend REST API for a simple note-taking app. Below you will find a list of t
     * Public notes can be viewed without authentication, however they cannot be modified
 * [x] User management API to create new users
 
+### Run the Note Taking App.
+For the time time build the docker image and run the container.
+```bash
+docker-compose up --build
+```
+For the next run:
+
+```bash
+docker-compose up
+```
+
+### code style complaint
+* [x] The code is flake8 compliant.
