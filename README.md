@@ -44,3 +44,9 @@ docker-compose up
 
 ### code style complaint
 * [x] The code is flake8 compliant.
+
+### Username and Password to login.
+```python
+username:admin
+password:password
+```
